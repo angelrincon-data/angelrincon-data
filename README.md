@@ -48,4 +48,8 @@ SQL • Python • Pandas • Power BI • Excel • SQL Server • PostgreSQL
 <a href="https://www.linkedin.com/in/angel-david-rincon-data">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:angelrincon@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
