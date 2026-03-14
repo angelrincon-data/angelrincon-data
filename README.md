@@ -44,5 +44,6 @@ SQL • Python • Pandas • Power BI • Excel • SQL Server • PostgreSQL
 
 ## 📫 Connect with me
 
-LinkedIn  
-www.linkedin.com/in/angel-david-rincon-data
+### ☕ CONNECT WITH ME
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20David%20Rincón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-david-rincon-data)
